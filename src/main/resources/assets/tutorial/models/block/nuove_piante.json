@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "tutorial:blocks/pianta",
+    "particle": "tutorial:blocks/pianta"
+  }
+}

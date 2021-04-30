@@ -1,0 +1,170 @@
+{
+  "_fv": 18,
+  "_type": "block",
+  "definition": {
+    "texture": "blocco",
+    "textureTop": "blocco",
+    "textureLeft": "blocco",
+    "textureFront": "blocco",
+    "textureRight": "blocco",
+    "textureBack": "blocco",
+    "renderType": 2,
+    "customModelName": "blocco:default",
+    "rotationMode": 1,
+    "emissiveRendering": false,
+    "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "Water",
+    "isItemTinted": true,
+    "hasTransparency": true,
+    "connectedSides": false,
+    "transparencyType": "SOLID",
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 1.0,
+        "my": 0.0,
+        "mz": 1.0,
+        "Mx": 15.0,
+        "My": 1.0,
+        "Mz": 15.0,
+        "subtract": true
+      },
+      {
+        "mx": 2.0,
+        "my": 1.0,
+        "mz": 2.0,
+        "Mx": 14.0,
+        "My": 2.0,
+        "Mz": 14.0,
+        "subtract": false
+      },
+      {
+        "mx": 3.0,
+        "my": 2.0,
+        "mz": 3.0,
+        "Mx": 13.0,
+        "My": 3.0,
+        "Mz": 13.0,
+        "subtract": false
+      },
+      {
+        "mx": 4.0,
+        "my": 3.0,
+        "mz": 4.0,
+        "Mx": 12.0,
+        "My": 4.0,
+        "Mz": 12.0,
+        "subtract": false
+      },
+      {
+        "mx": 5.0,
+        "my": 4.0,
+        "mz": 5.0,
+        "Mx": 11.0,
+        "My": 5.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 6.0,
+        "my": 5.0,
+        "mz": 6.0,
+        "Mx": 10.0,
+        "My": 6.0,
+        "Mz": 10.0,
+        "subtract": false
+      },
+      {
+        "mx": 7.0,
+        "my": 6.0,
+        "mz": 7.0,
+        "Mx": 9.0,
+        "My": 7.0,
+        "Mz": 9.0,
+        "subtract": false
+      }
+    ],
+    "name": "Nuovi Blocchi",
+    "specialInfo": [],
+    "hardness": 1.0,
+    "resistance": 10.0,
+    "hasGravity": false,
+    "isWaterloggable": false,
+    "creativeTab": {
+      "value": "BUILDING_BLOCKS"
+    },
+    "destroyTool": "Not specified",
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "useLootTableForDrops": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 0,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "speedFactor": 1.4,
+    "jumpFactor": 0.1,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "GROUND"
+    },
+    "luminance": 0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "hasInventory": false,
+    "guiBoundTo": "<NONE>",
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
+    "hasEnergyStorage": false,
+    "energyInitial": 0,
+    "energyCapacity": 400000,
+    "energyMaxReceive": 200,
+    "energyMaxExtract": 200,
+    "isFluidTank": false,
+    "fluidCapacity": 8000,
+    "fluidRestrictions": [],
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
+  }
+}

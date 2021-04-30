@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tutorial:block/nuovi_blocchi"
+    },
+    "facing=east": {
+      "model": "tutorial:block/nuovi_blocchi",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tutorial:block/nuovi_blocchi",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tutorial:block/nuovi_blocchi",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Gamerule",
+    "description": "questa è una gamerule",
+    "category": "SPAWNING",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}

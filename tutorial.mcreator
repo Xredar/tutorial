@@ -1,0 +1,194 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NuoveProcedure",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuove_procedure",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "NuoviBlocchi",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuovi_blocchi"
+    },
+    {
+      "name": "NuovePiante",
+      "type": "plant",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuove_piante"
+    },
+    {
+      "name": "NuoviBiomi",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuovi_biomi"
+    },
+    {
+      "name": "NuoveRicette",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuove_ricette"
+    },
+    {
+      "name": "NuoveEntita",
+      "type": "mob",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuove_entita"
+    },
+    {
+      "name": "NuoviCibi",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuovi_cibi"
+    },
+    {
+      "name": "NuoveArmature",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuove_armature",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "NuoveParticelle",
+      "type": "particle",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuove_particelle"
+    },
+    {
+      "name": "NuoviComandi",
+      "type": "command",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuovi_comandi"
+    },
+    {
+      "name": "NuoveGUI",
+      "type": "gui",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nuove_gui"
+    },
+    {
+      "name": "Gamerule",
+      "type": "gamerule",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gamerule",
+      "metadata": {
+        "type": "boolean"
+      }
+    },
+    {
+      "name": "GameruleProcedure",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gamerule_procedure",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "blaze_death",
+      "files": [
+        "blazedeath"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "gamerule.gamerule": "Gamerule",
+      "entity.tutorial.nuove_entita": "Nuove Entita",
+      "subtitles.blaze_death": "",
+      "biome.tutorial.nuovi_biomi": "Nuovi Biomi",
+      "item.tutorial.nuove_armature_boots": "Nuove Armature Boots",
+      "block.tutorial.nuovi_blocchi": "Nuovi Blocchi",
+      "item.tutorial.nuove_armature_leggings": "Nuove Armature Leggings",
+      "item.tutorial.nuovi_cibi": "Nuovi Cibi",
+      "item.tutorial.nuove_armature_chestplate": "Nuove Armature Body",
+      "gamerule.gamerule.description": "questa è una gamerule",
+      "block.tutorial.nuove_piante": "Nuove Piante",
+      "item.tutorial.nuove_entita_spawn_egg": "Nuove Entita Spawn Egg",
+      "item.tutorial.nuove_armature_helmet": "Nuove Armature Helmet"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tutorial",
+    "modName": "tutorial",
+    "version": "1.0.0",
+    "author": "Xredar, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.tutorial",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100116710
+}

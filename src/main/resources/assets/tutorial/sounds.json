@@ -1,0 +1,11 @@
+{
+  "blaze_death": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tutorial:blazedeath",
+        "stream": false
+      }
+    ]
+  }
+}
